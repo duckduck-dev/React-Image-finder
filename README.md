@@ -1,2 +1,2 @@
-# Image-search-
-image searching application using unsplash 
+# Image-Finder
+image searching application using unsplash api 
